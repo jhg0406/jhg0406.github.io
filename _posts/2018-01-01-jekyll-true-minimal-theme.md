@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Jekyll true minimal theme"
-date:   2018-01-01 23:22:40 +0300
+title:  "첫번째 글"
+date:   2020-01-02 01:00:00 +0300
 ---
 
-True minimal theme is extremely lightweight and ascetic jekyll theme.
-
-This theme has only one css file, which is used for source code highlighting. 
+안녕하세요. 블로그 테스트 중입니다!
 
 
 # Heading 1
