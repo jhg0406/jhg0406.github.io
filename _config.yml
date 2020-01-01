@@ -1,6 +1,9 @@
+locale: "ko_KR"
+
 title: "test"
-name: "jhg's blog"
-description: "algorithm study"
+email: 'whgusrms96@gmail.com'
+name: "jhg"
+description: "jhg's blog"
 
 url: 'https://jhg0406.github.io/' 
 baseurl: ''
